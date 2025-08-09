@@ -1,0 +1,84 @@
+{
+  "users": {
+    "8485815498": [
+      {
+        "userId": "1234567890",
+        "serverId": "12345",
+        "registeredAt": "2025-08-09T08:32:22.028Z"
+      }
+    ],
+    "6076223538": [
+      {
+        "userId": "1234567890",
+        "serverId": "12345",
+        "registeredAt": "2025-08-09T08:37:27.321Z"
+      }
+    ]
+  },
+  "transactions": [
+    {
+      "id": "TXN_1754728386541_456",
+      "chatId": 8485815498,
+      "userId": "1234567890",
+      "serverId": "12345",
+      "packageName": "Haftalik — 19.500 SO'M 🌟 ( 220 💎 + 70 ⭐ )",
+      "checkCode": "VG2YD0",
+      "paymentCard": "9860346607403174",
+      "paymentScreenshot": {
+        "fileId": "AgACAgIAAxkBAAIDQmiXB7HEuiAmLgMR0VARH24zue32AAKa9DEbXLm4SD1VSd-oA18pAQADAgADeAADNgQ",
+        "fileUniqueId": "AQADmvQxG1y5uEh9",
+        "uploadedAt": "2025-08-09T08:32:48.688Z"
+      },
+      "timestamp": "2025-08-09T08:33:06.541Z",
+      "status": "Bajarildi"
+    },
+    {
+      "id": "TXN_1754728669785_691",
+      "chatId": 6076223538,
+      "userId": "1234567890",
+      "serverId": "12345",
+      "packageName": "Summerchniy Propusk— 105.000 SO'M 🌟",
+      "checkCode": "GAV375",
+      "paymentCard": "9860346607403174",
+      "paymentScreenshot": {
+        "fileId": "AgACAgIAAxkBAAICy2iW_pO8ZmfaCrF3qeBNk_HXofw8AAI29TEbblS4SI859K0PNdGTAQADAgADeAADNgQ",
+        "fileUniqueId": "AQADNvUxG25UuEh9",
+        "uploadedAt": "2025-08-09T08:37:48.473Z"
+      },
+      "timestamp": "2025-08-09T08:37:49.785Z",
+      "status": "Bajarildi"
+    },
+    {
+      "id": "TXN_1754728997239_499",
+      "chatId": 6076223538,
+      "userId": "1234567890",
+      "serverId": "12345",
+      "packageName": "Summerchniy Propusk— 105.000 SO'M 🌟",
+      "checkCode": "M2EQ1S",
+      "paymentCard": "9860346607403174",
+      "paymentScreenshot": {
+        "fileId": "AgACAgIAAxkBAAICy2iW_pO8ZmfaCrF3qeBNk_HXofw8AAI29TEbblS4SI859K0PNdGTAQADAgADeAADNgQ",
+        "fileUniqueId": "AQADNvUxG25UuEh9",
+        "uploadedAt": "2025-08-09T08:43:13.868Z"
+      },
+      "timestamp": "2025-08-09T08:43:17.239Z",
+      "status": "Bajarildi"
+    },
+    {
+      "id": "TXN_1754729054425_171",
+      "chatId": 6076223538,
+      "userId": "1234567890",
+      "serverId": "12345",
+      "packageName": "Summerchniy Propusk— 105.000 SO'M 🌟",
+      "checkCode": "XGTLFP",
+      "paymentCard": "9860346607403174",
+      "paymentScreenshot": {
+        "fileId": "AgACAgIAAxkBAAICy2iW_pO8ZmfaCrF3qeBNk_HXofw8AAI29TEbblS4SI859K0PNdGTAQADAgADeAADNgQ",
+        "fileUniqueId": "AQADNvUxG25UuEh9",
+        "uploadedAt": "2025-08-09T08:44:12.181Z"
+      },
+      "timestamp": "2025-08-09T08:44:14.425Z",
+      "status": "Bajarildi"
+    }
+  ]
+}
